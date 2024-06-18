@@ -1,0 +1,17 @@
+D:\ООП\Lab_23\Lab_23\bin\Debug\net8.0-windows\Lab_23.exe
+D:\ООП\Lab_23\Lab_23\bin\Debug\net8.0-windows\Lab_23.deps.json
+D:\ООП\Lab_23\Lab_23\bin\Debug\net8.0-windows\Lab_23.runtimeconfig.json
+D:\ООП\Lab_23\Lab_23\bin\Debug\net8.0-windows\Lab_23.dll
+D:\ООП\Lab_23\Lab_23\bin\Debug\net8.0-windows\Lab_23.pdb
+D:\ООП\Lab_23\Lab_23\obj\Debug\net8.0-windows\Lab_23.Form1.resources
+D:\ООП\Lab_23\Lab_23\obj\Debug\net8.0-windows\Lab_23.Properties.Resources.resources
+D:\ООП\Lab_23\Lab_23\obj\Debug\net8.0-windows\Lab_23.csproj.GenerateResource.cache
+D:\ООП\Lab_23\Lab_23\obj\Debug\net8.0-windows\Lab_23.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Lab_23\Lab_23\obj\Debug\net8.0-windows\Lab_23.AssemblyInfoInputs.cache
+D:\ООП\Lab_23\Lab_23\obj\Debug\net8.0-windows\Lab_23.AssemblyInfo.cs
+D:\ООП\Lab_23\Lab_23\obj\Debug\net8.0-windows\Lab_23.csproj.CoreCompileInputs.cache
+D:\ООП\Lab_23\Lab_23\obj\Debug\net8.0-windows\Lab_23.dll
+D:\ООП\Lab_23\Lab_23\obj\Debug\net8.0-windows\refint\Lab_23.dll
+D:\ООП\Lab_23\Lab_23\obj\Debug\net8.0-windows\Lab_23.pdb
+D:\ООП\Lab_23\Lab_23\obj\Debug\net8.0-windows\Lab_23.genruntimeconfig.cache
+D:\ООП\Lab_23\Lab_23\obj\Debug\net8.0-windows\ref\Lab_23.dll
